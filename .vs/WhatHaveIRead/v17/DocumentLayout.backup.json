@@ -1,0 +1,412 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\Studia\\WhatHaveIRead\\WhatHaveIRead\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{6C13DE88-F3D5-48F5-98FB-4E5093955A6B}|WhatHaveIRead.csproj|d:\\studia\\whathaveiread\\whathaveiread\\controllers\\mylibrariescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6C13DE88-F3D5-48F5-98FB-4E5093955A6B}|WhatHaveIRead.csproj|solutionrelative:controllers\\mylibrariescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6C13DE88-F3D5-48F5-98FB-4E5093955A6B}|WhatHaveIRead.csproj|d:\\studia\\whathaveiread\\whathaveiread\\controllers\\toreadscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6C13DE88-F3D5-48F5-98FB-4E5093955A6B}|WhatHaveIRead.csproj|solutionrelative:controllers\\toreadscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6C13DE88-F3D5-48F5-98FB-4E5093955A6B}|WhatHaveIRead.csproj|d:\\studia\\whathaveiread\\whathaveiread\\models\\toread.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6C13DE88-F3D5-48F5-98FB-4E5093955A6B}|WhatHaveIRead.csproj|solutionrelative:models\\toread.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6C13DE88-F3D5-48F5-98FB-4E5093955A6B}|WhatHaveIRead.csproj|d:\\studia\\whathaveiread\\whathaveiread\\views\\home\\privacy.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{6C13DE88-F3D5-48F5-98FB-4E5093955A6B}|WhatHaveIRead.csproj|solutionrelative:views\\home\\privacy.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6C13DE88-F3D5-48F5-98FB-4E5093955A6B}|WhatHaveIRead.csproj|d:\\studia\\whathaveiread\\whathaveiread\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{6C13DE88-F3D5-48F5-98FB-4E5093955A6B}|WhatHaveIRead.csproj|solutionrelative:views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6C13DE88-F3D5-48F5-98FB-4E5093955A6B}|WhatHaveIRead.csproj|d:\\studia\\whathaveiread\\whathaveiread\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{6C13DE88-F3D5-48F5-98FB-4E5093955A6B}|WhatHaveIRead.csproj|solutionrelative:views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6C13DE88-F3D5-48F5-98FB-4E5093955A6B}|WhatHaveIRead.csproj|d:\\studia\\whathaveiread\\whathaveiread\\views\\toreads\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{6C13DE88-F3D5-48F5-98FB-4E5093955A6B}|WhatHaveIRead.csproj|solutionrelative:views\\toreads\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6C13DE88-F3D5-48F5-98FB-4E5093955A6B}|WhatHaveIRead.csproj|d:\\studia\\whathaveiread\\whathaveiread\\views\\mylibraries\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{6C13DE88-F3D5-48F5-98FB-4E5093955A6B}|WhatHaveIRead.csproj|solutionrelative:views\\mylibraries\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6C13DE88-F3D5-48F5-98FB-4E5093955A6B}|WhatHaveIRead.csproj|d:\\studia\\whathaveiread\\whathaveiread\\views\\books\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{6C13DE88-F3D5-48F5-98FB-4E5093955A6B}|WhatHaveIRead.csproj|solutionrelative:views\\books\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6C13DE88-F3D5-48F5-98FB-4E5093955A6B}|WhatHaveIRead.csproj|d:\\studia\\whathaveiread\\whathaveiread\\models\\books.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6C13DE88-F3D5-48F5-98FB-4E5093955A6B}|WhatHaveIRead.csproj|solutionrelative:models\\books.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6C13DE88-F3D5-48F5-98FB-4E5093955A6B}|WhatHaveIRead.csproj|d:\\studia\\whathaveiread\\whathaveiread\\controllers\\bookscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6C13DE88-F3D5-48F5-98FB-4E5093955A6B}|WhatHaveIRead.csproj|solutionrelative:controllers\\bookscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6C13DE88-F3D5-48F5-98FB-4E5093955A6B}|WhatHaveIRead.csproj|d:\\studia\\whathaveiread\\whathaveiread\\data\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6C13DE88-F3D5-48F5-98FB-4E5093955A6B}|WhatHaveIRead.csproj|solutionrelative:data\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6C13DE88-F3D5-48F5-98FB-4E5093955A6B}|WhatHaveIRead.csproj|d:\\studia\\whathaveiread\\whathaveiread\\models\\mylibrary.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6C13DE88-F3D5-48F5-98FB-4E5093955A6B}|WhatHaveIRead.csproj|solutionrelative:models\\mylibrary.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6C13DE88-F3D5-48F5-98FB-4E5093955A6B}|WhatHaveIRead.csproj|d:\\studia\\whathaveiread\\whathaveiread\\views\\toreads\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{6C13DE88-F3D5-48F5-98FB-4E5093955A6B}|WhatHaveIRead.csproj|solutionrelative:views\\toreads\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6C13DE88-F3D5-48F5-98FB-4E5093955A6B}|WhatHaveIRead.csproj|d:\\studia\\whathaveiread\\whathaveiread\\views\\toreads\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{6C13DE88-F3D5-48F5-98FB-4E5093955A6B}|WhatHaveIRead.csproj|solutionrelative:views\\toreads\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6C13DE88-F3D5-48F5-98FB-4E5093955A6B}|WhatHaveIRead.csproj|d:\\studia\\whathaveiread\\whathaveiread\\views\\toreads\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{6C13DE88-F3D5-48F5-98FB-4E5093955A6B}|WhatHaveIRead.csproj|solutionrelative:views\\toreads\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6C13DE88-F3D5-48F5-98FB-4E5093955A6B}|WhatHaveIRead.csproj|d:\\studia\\whathaveiread\\whathaveiread\\views\\mylibraries\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{6C13DE88-F3D5-48F5-98FB-4E5093955A6B}|WhatHaveIRead.csproj|solutionrelative:views\\mylibraries\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6C13DE88-F3D5-48F5-98FB-4E5093955A6B}|WhatHaveIRead.csproj|d:\\studia\\whathaveiread\\whathaveiread\\views\\mylibraries\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{6C13DE88-F3D5-48F5-98FB-4E5093955A6B}|WhatHaveIRead.csproj|solutionrelative:views\\mylibraries\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6C13DE88-F3D5-48F5-98FB-4E5093955A6B}|WhatHaveIRead.csproj|d:\\studia\\whathaveiread\\whathaveiread\\views\\toreads\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{6C13DE88-F3D5-48F5-98FB-4E5093955A6B}|WhatHaveIRead.csproj|solutionrelative:views\\toreads\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6C13DE88-F3D5-48F5-98FB-4E5093955A6B}|WhatHaveIRead.csproj|d:\\studia\\whathaveiread\\whathaveiread\\views\\mylibraries\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{6C13DE88-F3D5-48F5-98FB-4E5093955A6B}|WhatHaveIRead.csproj|solutionrelative:views\\mylibraries\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6C13DE88-F3D5-48F5-98FB-4E5093955A6B}|WhatHaveIRead.csproj|d:\\studia\\whathaveiread\\whathaveiread\\views\\mylibraries\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{6C13DE88-F3D5-48F5-98FB-4E5093955A6B}|WhatHaveIRead.csproj|solutionrelative:views\\mylibraries\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6C13DE88-F3D5-48F5-98FB-4E5093955A6B}|WhatHaveIRead.csproj|d:\\studia\\whathaveiread\\whathaveiread\\models\\errorviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6C13DE88-F3D5-48F5-98FB-4E5093955A6B}|WhatHaveIRead.csproj|solutionrelative:models\\errorviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6C13DE88-F3D5-48F5-98FB-4E5093955A6B}|WhatHaveIRead.csproj|d:\\studia\\whathaveiread\\whathaveiread\\data\\migrations\\20241214161913_initial.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6C13DE88-F3D5-48F5-98FB-4E5093955A6B}|WhatHaveIRead.csproj|solutionrelative:data\\migrations\\20241214161913_initial.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 9,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{b1e99781-ab81-11d0-b683-00aa00a3ee26}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{0d88d125-84f9-49ef-ae2f-e54b55205e08}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Privacy.cshtml",
+              "DocumentMoniker": "D:\\Studia\\WhatHaveIRead\\WhatHaveIRead\\Views\\Home\\Privacy.cshtml",
+              "RelativeDocumentMoniker": "Views\\Home\\Privacy.cshtml",
+              "ToolTip": "D:\\Studia\\WhatHaveIRead\\WhatHaveIRead\\Views\\Home\\Privacy.cshtml",
+              "RelativeToolTip": "Views\\Home\\Privacy.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-12-18T18:17:59.073Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "D:\\Studia\\WhatHaveIRead\\WhatHaveIRead\\Views\\Home\\Index.cshtml",
+              "RelativeDocumentMoniker": "Views\\Home\\Index.cshtml",
+              "ToolTip": "D:\\Studia\\WhatHaveIRead\\WhatHaveIRead\\Views\\Home\\Index.cshtml",
+              "RelativeToolTip": "Views\\Home\\Index.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABYAAAAGAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-12-18T18:17:34.431Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "D:\\Studia\\WhatHaveIRead\\WhatHaveIRead\\Views\\Books\\Index.cshtml",
+              "RelativeDocumentMoniker": "Views\\Books\\Index.cshtml",
+              "ToolTip": "D:\\Studia\\WhatHaveIRead\\WhatHaveIRead\\Views\\Books\\Index.cshtml",
+              "RelativeToolTip": "Views\\Books\\Index.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAVAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-12-18T18:16:10.26Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "Create.cshtml",
+              "DocumentMoniker": "D:\\Studia\\WhatHaveIRead\\WhatHaveIRead\\Views\\MyLibraries\\Create.cshtml",
+              "RelativeDocumentMoniker": "Views\\MyLibraries\\Create.cshtml",
+              "ToolTip": "D:\\Studia\\WhatHaveIRead\\WhatHaveIRead\\Views\\MyLibraries\\Create.cshtml",
+              "RelativeToolTip": "Views\\MyLibraries\\Create.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAQAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-12-14T16:27:27.628Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "D:\\Studia\\WhatHaveIRead\\WhatHaveIRead\\Views\\MyLibraries\\Index.cshtml",
+              "RelativeDocumentMoniker": "Views\\MyLibraries\\Index.cshtml",
+              "ToolTip": "D:\\Studia\\WhatHaveIRead\\WhatHaveIRead\\Views\\MyLibraries\\Index.cshtml",
+              "RelativeToolTip": "Views\\MyLibraries\\Index.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAARAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-12-14T16:12:14.205Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "ToReadsController.cs",
+              "DocumentMoniker": "D:\\Studia\\WhatHaveIRead\\WhatHaveIRead\\Controllers\\ToReadsController.cs",
+              "RelativeDocumentMoniker": "Controllers\\ToReadsController.cs",
+              "ToolTip": "D:\\Studia\\WhatHaveIRead\\WhatHaveIRead\\Controllers\\ToReadsController.cs",
+              "RelativeToolTip": "Controllers\\ToReadsController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABsAAABCAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-14T16:10:44.636Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "MyLibrariesController.cs",
+              "DocumentMoniker": "D:\\Studia\\WhatHaveIRead\\WhatHaveIRead\\Controllers\\MyLibrariesController.cs",
+              "RelativeDocumentMoniker": "Controllers\\MyLibrariesController.cs",
+              "ToolTip": "D:\\Studia\\WhatHaveIRead\\WhatHaveIRead\\Controllers\\MyLibrariesController.cs",
+              "RelativeToolTip": "Controllers\\MyLibrariesController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAB0AAAAnAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-14T16:09:53.353Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "BooksController.cs",
+              "DocumentMoniker": "D:\\Studia\\WhatHaveIRead\\WhatHaveIRead\\Controllers\\BooksController.cs",
+              "RelativeDocumentMoniker": "Controllers\\BooksController.cs",
+              "ToolTip": "D:\\Studia\\WhatHaveIRead\\WhatHaveIRead\\Controllers\\BooksController.cs",
+              "RelativeToolTip": "Controllers\\BooksController.cs",
+              "ViewState": "AgIAACAAAAAAAAAAAAAwwDQAAABjAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-14T16:09:16.151Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "ApplicationDbContext.cs",
+              "DocumentMoniker": "D:\\Studia\\WhatHaveIRead\\WhatHaveIRead\\Data\\ApplicationDbContext.cs",
+              "RelativeDocumentMoniker": "Data\\ApplicationDbContext.cs",
+              "ToolTip": "D:\\Studia\\WhatHaveIRead\\WhatHaveIRead\\Data\\ApplicationDbContext.cs",
+              "RelativeToolTip": "Data\\ApplicationDbContext.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAABAAAABKAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-14T16:07:47.176Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "MyLibrary.cs",
+              "DocumentMoniker": "D:\\Studia\\WhatHaveIRead\\WhatHaveIRead\\Models\\MyLibrary.cs",
+              "RelativeDocumentMoniker": "Models\\MyLibrary.cs",
+              "ToolTip": "D:\\Studia\\WhatHaveIRead\\WhatHaveIRead\\Models\\MyLibrary.cs",
+              "RelativeToolTip": "Models\\MyLibrary.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAnAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-14T16:01:19.316Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "ToRead.cs",
+              "DocumentMoniker": "D:\\Studia\\WhatHaveIRead\\WhatHaveIRead\\Models\\ToRead.cs",
+              "RelativeDocumentMoniker": "Models\\ToRead.cs",
+              "ToolTip": "D:\\Studia\\WhatHaveIRead\\WhatHaveIRead\\Models\\ToRead.cs",
+              "RelativeToolTip": "Models\\ToRead.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAACAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-14T16:01:28.385Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "D:\\Studia\\WhatHaveIRead\\WhatHaveIRead\\Views\\ToReads\\Index.cshtml",
+              "RelativeDocumentMoniker": "Views\\ToReads\\Index.cshtml",
+              "ToolTip": "D:\\Studia\\WhatHaveIRead\\WhatHaveIRead\\Views\\ToReads\\Index.cshtml",
+              "RelativeToolTip": "Views\\ToReads\\Index.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAA+AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-12-14T16:12:39.585Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Books.cs",
+              "DocumentMoniker": "D:\\Studia\\WhatHaveIRead\\WhatHaveIRead\\Models\\Books.cs",
+              "RelativeDocumentMoniker": "Models\\Books.cs",
+              "ToolTip": "D:\\Studia\\WhatHaveIRead\\WhatHaveIRead\\Models\\Books.cs",
+              "RelativeToolTip": "Models\\Books.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAjAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-14T16:01:00.547Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "D:\\Studia\\WhatHaveIRead\\WhatHaveIRead\\Views\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "Views\\Shared\\_Layout.cshtml",
+              "ToolTip": "D:\\Studia\\WhatHaveIRead\\WhatHaveIRead\\Views\\Shared\\_Layout.cshtml",
+              "RelativeToolTip": "Views\\Shared\\_Layout.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACgAAAAOAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-12-14T16:10:50.457Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "Edit.cshtml",
+              "DocumentMoniker": "D:\\Studia\\WhatHaveIRead\\WhatHaveIRead\\Views\\ToReads\\Edit.cshtml",
+              "RelativeDocumentMoniker": "Views\\ToReads\\Edit.cshtml",
+              "ToolTip": "D:\\Studia\\WhatHaveIRead\\WhatHaveIRead\\Views\\ToReads\\Edit.cshtml",
+              "RelativeToolTip": "Views\\ToReads\\Edit.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABwAAAAPAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-12-14T17:16:46.023Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "Delete.cshtml",
+              "DocumentMoniker": "D:\\Studia\\WhatHaveIRead\\WhatHaveIRead\\Views\\ToReads\\Delete.cshtml",
+              "RelativeDocumentMoniker": "Views\\ToReads\\Delete.cshtml",
+              "ToolTip": "D:\\Studia\\WhatHaveIRead\\WhatHaveIRead\\Views\\ToReads\\Delete.cshtml",
+              "RelativeToolTip": "Views\\ToReads\\Delete.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABwAAAAsAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-12-14T17:18:09.592Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "Details.cshtml",
+              "DocumentMoniker": "D:\\Studia\\WhatHaveIRead\\WhatHaveIRead\\Views\\ToReads\\Details.cshtml",
+              "RelativeDocumentMoniker": "Views\\ToReads\\Details.cshtml",
+              "ToolTip": "D:\\Studia\\WhatHaveIRead\\WhatHaveIRead\\Views\\ToReads\\Details.cshtml",
+              "RelativeToolTip": "Views\\ToReads\\Details.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-12-14T17:17:45.671Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "Edit.cshtml",
+              "DocumentMoniker": "D:\\Studia\\WhatHaveIRead\\WhatHaveIRead\\Views\\MyLibraries\\Edit.cshtml",
+              "RelativeDocumentMoniker": "Views\\MyLibraries\\Edit.cshtml",
+              "ToolTip": "D:\\Studia\\WhatHaveIRead\\WhatHaveIRead\\Views\\MyLibraries\\Edit.cshtml",
+              "RelativeToolTip": "Views\\MyLibraries\\Edit.cshtml",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAAAB0AAAASAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-12-14T16:40:32.364Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "Details.cshtml",
+              "DocumentMoniker": "D:\\Studia\\WhatHaveIRead\\WhatHaveIRead\\Views\\MyLibraries\\Details.cshtml",
+              "RelativeDocumentMoniker": "Views\\MyLibraries\\Details.cshtml",
+              "ToolTip": "D:\\Studia\\WhatHaveIRead\\WhatHaveIRead\\Views\\MyLibraries\\Details.cshtml",
+              "RelativeToolTip": "Views\\MyLibraries\\Details.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABoAAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-12-14T16:50:16.797Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "Delete.cshtml",
+              "DocumentMoniker": "D:\\Studia\\WhatHaveIRead\\WhatHaveIRead\\Views\\MyLibraries\\Delete.cshtml",
+              "RelativeDocumentMoniker": "Views\\MyLibraries\\Delete.cshtml",
+              "ToolTip": "D:\\Studia\\WhatHaveIRead\\WhatHaveIRead\\Views\\MyLibraries\\Delete.cshtml",
+              "RelativeToolTip": "Views\\MyLibraries\\Delete.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABgAAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-12-14T16:47:06.402Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "Create.cshtml",
+              "DocumentMoniker": "D:\\Studia\\WhatHaveIRead\\WhatHaveIRead\\Views\\ToReads\\Create.cshtml",
+              "RelativeDocumentMoniker": "Views\\ToReads\\Create.cshtml",
+              "ToolTip": "D:\\Studia\\WhatHaveIRead\\WhatHaveIRead\\Views\\ToReads\\Create.cshtml",
+              "RelativeToolTip": "Views\\ToReads\\Create.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAB4AAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-12-14T17:16:21.088Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "20241214161913_initial.cs",
+              "DocumentMoniker": "D:\\Studia\\WhatHaveIRead\\WhatHaveIRead\\Data\\Migrations\\20241214161913_initial.cs",
+              "RelativeDocumentMoniker": "Data\\Migrations\\20241214161913_initial.cs",
+              "ToolTip": "D:\\Studia\\WhatHaveIRead\\WhatHaveIRead\\Data\\Migrations\\20241214161913_initial.cs",
+              "RelativeToolTip": "Data\\Migrations\\20241214161913_initial.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-14T16:19:13.429Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "ErrorViewModel.cs",
+              "DocumentMoniker": "D:\\Studia\\WhatHaveIRead\\WhatHaveIRead\\Models\\ErrorViewModel.cs",
+              "RelativeDocumentMoniker": "Models\\ErrorViewModel.cs",
+              "ToolTip": "D:\\Studia\\WhatHaveIRead\\WhatHaveIRead\\Models\\ErrorViewModel.cs",
+              "RelativeToolTip": "Models\\ErrorViewModel.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-14T16:00:47.638Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

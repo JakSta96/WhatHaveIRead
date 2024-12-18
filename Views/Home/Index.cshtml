@@ -1,0 +1,23 @@
+﻿@{
+    ViewData["Title"] = "Home Page";
+}
+
+<div class="text-center">
+    <h1 class="display-4">Welcome to WhatHaveIRead</h1>
+    <p class="lead">Select one of the options below.</p>
+</div>
+
+<div class="row justify-content-center">
+    <div class="col-md-3 text-center">
+        <h2>Check book list</h2>
+        @Html.ActionLink("Book List", "Index", "Books", new { area = "" }, new { @class = "btn btn-primary" }) <!-- Przycisk do kontrolera Books -->
+    </div>
+    <div class="col-md-3 text-center">
+        <h2>Check your library</h2>
+        @Html.ActionLink("My Library", "Index", "MyLibraries", new { area = "" }, new { @class = "btn btn-primary" }) <!-- Przycisk do kontrolera MyLibrary -->
+    </div>
+    <div class="col-md-3 text-center">
+        <h2>Check your books marked to read</h2>
+        @Html.ActionLink("Books to Read", "Index", "ToReads", new { area = "" }, new { @class = "btn btn-primary" }) <!-- Przycisk do kontrolera ToReads -->
+    </div>
+</div>

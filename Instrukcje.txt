@@ -1,0 +1,11 @@
+W przypadku gdyby strona nie chciała się odpalić, lub nie wczytywała danych należy stworzyć migrację
+W Konsoli menedżera pakietów wpisujemy:
+Add-Migration initial
+Update-Database
+
+Gdyby dalej wyskakiwały błędy, można by usunąć wszystkie migracje i bazę danych, niestety wtedy stracimy wszystkie umieszczone w rozpisce książki..
+Aby to zrobić usuwamy folder Migrations, a w konsoli wpisujemy Drop-Database
+Wtedy ponownie dodajemy nową migracje i updatujemy baze danych
+Strona powinna wtedy śmigać :) niestety będzie cała pusta...
+
+Dowody na działanie aplikacji umieszczone są w folderze z screenami
